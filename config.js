@@ -1,5 +1,5 @@
 module.exports = {
-    app: {
+    app: {MTA4MTA1ODE0Mzc3MTA1NDIzMQ.G9_NCS.pfp8s8Nb42GjLdH_y1FdrfJN5FxroB5IhT8pls
         token: 'XXX',
         playing: 'by Zerio ❤️',
         global: true,
